@@ -1,19 +1,18 @@
 # 居老师讲AI
 
-**西南大学博士后｜专注公文自动化与 AI 工具落地**
+**西南大学博士后｜做能直接用的 AI 工具**
 
-> 把 AI 用在自己每天真在做的事上——先解决自己的麻烦，再谈别的。
+> 不写「AI 将改变世界」，只做自己每天真在用的东西。
 
 ## 我是谁
 
 我是张军，网名「居老师」——**「居老师讲AI」** 自媒体主理人，坐标重庆。
 
-西南大学博士后。我不写「AI 将改变世界」这类文章，
-我只做一件事：**把自己每天真在用的工作流，沉淀成别人拿走就能用的工具。**
+西南大学博士后。我只做一件事：**把自己每天真在用的工作流，沉淀成别人拿走就能用的工具。**
 
-## 主力工具
+## 公文工作台
 
-做一件事做到能用：把**公文写作与排版**这条链路全自动化。
+这是我目前最核心的一组工具——把**公文写作与排版**这条链路全自动化。
 
 | 项目 | 解决什么 |
 | --- | --- |
@@ -24,22 +23,11 @@
 
 四个仓库都是 **MIT 许可**，可直接拿去改。
 
-## 其他工具
-
-顺手做的，边用边迭代。
+## 教学资源
 
 | 项目 | 说明 |
 | --- | --- |
-| [公文自动校排（CodeX 挑战 01）](https://github.com/JulianZhang001/codex-challenge-01-docx-formatter) | 公文 Word 自动校排的挑战版实现 |
-| [中文 HTML 看板设计](https://github.com/JulianZhang001/html-dashboard-design) | 内容长短悬殊也不参差的中文看板/报表页 |
-| [中文自媒体封面排版](https://github.com/JulianZhang001/chinese-cover-compositing) | AI 只出底图，中文大字用 PIL 精确排，解决 AI 生图糊字 |
-| [扫描版 PDF OCR 检索](https://github.com/JulianZhang001/pdf-scan-ocr-search) | 无文本层 PDF 本地 OCR + 全文检索 |
-| [知网文献批量采集](https://github.com/JulianZhang001/cnki-cdp-collection) | Chrome CDP 批量采集题录，产出计量分析报告 |
-| [剪映草稿生成（macOS）](https://github.com/JulianZhang001/jianying-draft-macos) | 绕过草稿加密直接生成可用草稿 |
-| [现场抽奖工具](https://github.com/JulianZhang001/lottery-tool) | 双击 index.html 即可用，支持确认领奖与未到场重抽 |
-| [个人智能工作台·离线版](https://github.com/JulianZhang001/offline-ai-workspace) | 单文件 HTML，任务看板 + 周总结，断网可用 |
-| [劳务报酬个税计算器](https://github.com/JulianZhang001/labor-tax-calculator) | 个税正算与反算，单文件离线 |
-| [Gitee 账号批量完善](https://github.com/JulianZhang001/gitee-account-setup) | Gitee API 的可用通道与限制记录 |
+| [二年级《认识时间》互动教学资源](https://github.com/JulianZhang001/renshi-shijian-jiaoxue) | 单文件网页教学资源，教师演示 + 自由拨钟 + 分层闯关 + 错题再练，手机平板都能用 |
 
 ## 技术栈
 
@@ -53,7 +41,8 @@ Python · Word/OOXML · HTML / CSS / JavaScript（单文件工具优先）· Mar
 
 ## 说明
 
-本仓库与 [Gitee 主页](https://gitee.com/julaoshi) 内容同步，Gitee 为主阵地，此为镜像。
+本仓库与 [Gitee 主页](https://gitee.com/julaoshi) 同步，Gitee 为主阵地，此为镜像。
+另有一部分工具暂未公开，需要可私下联系。
 
 ## 许可
 
